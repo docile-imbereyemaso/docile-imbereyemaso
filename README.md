@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Docile Imbereyemaso
 
-<!--
-**docile-imbereyemaso/docile-imbereyemaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Developer** dedicated to architecting scalable backend systems, responsive frontend interfaces, and efficient database architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Expertise
+
+* **Languages & Runtimes:** JavaScript (ES6+), TypeScript, Node.js
+* **Frameworks:** React, Express, NestJS, HTML5, CSS3, Tailwind CSS
+* **Databases & ORMs:** PostgreSQL, MongoDB, TypeORM, Prisma and Drizzle ORM
+* **Tools & Workflow:** Git, GitHub, Postman, RESTful APIs,GraphQL APIs
+
+---
+
+### Focus & Initiatives
+
+*  **Current Focus:** Engineering high-performance web applications, RESTful APIs, and GraphQL integration.
+*  **Professional Growth:** Deepening knowledge in system architecture, cloud deployment, and scalable design patterns.
+*  **Collaboration:** Open to collaborating on innovative open-source projects, full-stack applications, and backend/API development.
+
+---
+
+### Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/docile-imbereyemaso-a4399537b/)
+* **Email:** [your.email@example.com](mailto:imbereyemasoo@gmail.com)
