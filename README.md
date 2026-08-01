@@ -23,5 +23,5 @@
 
 ### Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/docile-imbereyemaso-a4399537b/)
-* **Email:** [your.email@example.com](mailto:imbereyemasoo@gmail.com)
+* **LinkedIn:** [Docile Imbereyemaso](https://www.linkedin.com/in/docile-imbereyemaso-a4399537b/)
+* **Email:** [imbereyemasoo@gmail.com](mailto:imbereyemasoo@gmail.com)
