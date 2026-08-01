@@ -9,7 +9,7 @@
 * **Languages & Runtimes:** JavaScript (ES6+), TypeScript, Node.js
 * **Frameworks:** React, Express, NestJS, HTML5, CSS3, Tailwind CSS
 * **Databases & ORMs:** PostgreSQL, MongoDB, TypeORM, Prisma and Drizzle ORM
-* **Tools & Workflow:** Git, GitHub, Postman, RESTful APIs,GraphQL APIs
+* **Tools & Workflow:** Git, GitHub, Postman, RESTful APIs and GraphQL APIs
 
 ---
 
