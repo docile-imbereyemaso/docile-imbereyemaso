@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Docile Imbereyemaso
 
-**Full-Stack Software Developer** dedicated to architecting scalable backend systems, responsive frontend interfaces, and efficient database architectures.
+**A junior Software Developer** dedicated to architecting scalable backend systems, responsive frontend interfaces, and efficient database architectures.
 
 ---
 
